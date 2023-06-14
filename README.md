@@ -28,3 +28,19 @@ La carpeta util tiene distintas  clases las cuales son importantes ya que tienen
 ```
 $ clonar git (https://github.com/200ximena/TALLER_8_Y_9_JAVA_AVANZADO.git)
 ```
+## Resultados
+***
+Index:
+![image](https://github.com/200ximena/TALLER_8_Y_9_JAVA_AVANZADO/assets/128264476/3f8d477c-6904-4d0d-81d4-300b2c905047)
+
+Ingreso:
+![image](https://github.com/200ximena/TALLER_8_Y_9_JAVA_AVANZADO/assets/128264476/4611f0d0-b9a6-4af0-9fcc-19a5d9e53b1a)
+
+Registro:
+![image](https://github.com/200ximena/TALLER_8_Y_9_JAVA_AVANZADO/assets/128264476/b9ad5e5b-c84b-4d82-8c8f-9c0c3fe45f6f)
+
+Categorias:
+![image](https://github.com/200ximena/TALLER_8_Y_9_JAVA_AVANZADO/assets/128264476/c9525fbb-9ba4-45f4-b8a0-15974f453b4a)
+
+Productos:
+![image](https://github.com/200ximena/TALLER_8_Y_9_JAVA_AVANZADO/assets/128264476/b78ce24d-6d53-40e5-9d0c-58428e7a8c35)
